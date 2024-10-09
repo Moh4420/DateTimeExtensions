@@ -43,4 +43,3 @@ namespace DateTimeExtensions.Tests
             Assert.AreEqual(GlobalHolidays.InternationalWorkersDay.Name, "근로자의 날");
         }
     }
-}
